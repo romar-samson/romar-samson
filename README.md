@@ -50,9 +50,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Uqlzsam/Uqlzsam/output/snake.svg" alt="Snake animation" />
+<div align="center">
 
-###
+![snake gif](https://github.com/romar-samson/romar-samson/blob/output/github-snake-dark.svg)
+  
+</div>
 
 <p align="left">📫 Connect with Me</p>
 
