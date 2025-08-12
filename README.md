@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🚀 About Me<br><br>- 💻 To be soon UI/UX designer with a love for designing.<br>- 🌱 Currently learning new technologies and improving my skills.<br>- 👯 Looking to collaborate on interesting projects.<br>- 🤔 Always open to discussing new ideas and opportunities.<br>- 💬 Ask me about web design, PHP, Laravel, Figma, or anything tech-related.<br>- 📫 How to reach me: Romarsamson14@gmail.com</p>
+<p align="left">🚀 About Me<br><br>- 💻 To be soon UI/UX designer with a love for designing.<br>- 🌱 Currently learning new technologies and improving my skills.<br>- 👯 Looking to collaborate on interesting projects.<br>- 🤔 Always open to discussing new ideas and opportunities.<br>- 💬 Ask me about web design, Canva, Figma, or anything tech-related.<br>- 📫 How to reach me: Romarsamson14@gmail.com</p>
 
 ###
 
