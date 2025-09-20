@@ -60,16 +60,6 @@
 
 ###
 
-<p align="center">Projects 🗒️</p>
-  <div>
-      <img width="900" height="789" alt="LVCIS" src="https://github.com/user-attachments/assets/18474c8f-8cff-490d-9b73-7fe27c9d1438" />
-      <img width="900" height="728" alt="Figma Portfolio" src="https://github.com/user-attachments/assets/8844cff9-75fb-4c78-8747-48e3eb205530" />
-  </div>
-
-###
-
-###
-
 <p align="center">GitHub Stats 📈</p>
 
 ###
