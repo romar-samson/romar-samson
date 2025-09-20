@@ -55,8 +55,19 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
 </div>
-  
+
 </div>
+
+###
+
+<p align="center">Projects 🗒️</p>
+  <div>
+      <img width="1207" height="789" alt="LVCIS" src="https://github.com/user-attachments/assets/18474c8f-8cff-490d-9b73-7fe27c9d1438" />
+      <img width="1207" height="789" alt="Figma Portfolio" src="https://github.com/user-attachments/assets/8844cff9-75fb-4c78-8747-48e3eb205530" />
+
+  </div>
+
+###
 
 ###
 
