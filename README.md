@@ -9,21 +9,17 @@
 </p>
 
 <p align="center">
-  I focus on creating clean, accessible front-end experiences. I love bridging the gap between interface design and modern web technologies, translating thoughtful design decisions into polished, functional code. 🚀
+  I focus on creating clean, accessible front-end experiences. I love bridging the gap between interface design and modern web technologies, translating thoughtful design decisions into polished, functional code.
 </p>
 
----
+About Me
 
-### 🌟 About Me
+-  **Currently focusing on:** Designing and building front-end projects, and refining my personal portfolio.
+-  **Currently learning:** Advanced layout techniques, web accessibility, and seamless design-to-code workflows.
+-  **Open to:** Collaborations, feedback, and opportunities to grow my UI/UX and front-end skills.
+-  **Fun fact:** I started sharing my projects on GitHub in 2025 and regularly push improvements to my code!
 
-- 🔭 **Currently focusing on:** Designing and building front-end projects, and refining my personal portfolio.
-- 🌱 **Currently learning:** Advanced layout techniques, web accessibility, and seamless design-to-code workflows.
-- 🤝 **Open to:** Collaborations, feedback, and opportunities to grow my UI/UX and front-end skills.
-- 💡 **Fun fact:** I started sharing my projects on GitHub in 2025 and regularly push improvements to my code!
-
----
-
-### 💻 Skills & Technologies
+###  Skills & Technologies
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma,js,react,nodejs,swift" height="40" alt="Design and Frontend Skills" />
@@ -33,28 +29,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira" />
 </div>
 
----
-
-### 📫 Let's Connect!
+ Let's Connect!
 
 <p align="center">
   Feel free to open an issue on any repo, send a message, or create a PR — I welcome feedback and opportunities to learn together! ✨
 </p>
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
+  <a>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
-  <a href="YOUR_DRIBBBLE_URL_HERE" target="_blank">
+  <a>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="Dribbble logo" />
   </a>
-  <a href="YOUR_FACEBOOK_URL_HERE" target="_blank">
+  <a>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook logo" />
   </a>
-  <a href="YOUR_INSTAGRAM_URL_HERE" target="_blank">
+  <a>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
   </a>
-  <a href="YOUR_DISCORD_URL_HERE" target="_blank">
+  <a>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo" />
   </a>
 </div>
